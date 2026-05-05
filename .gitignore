@@ -1,0 +1,21 @@
+# Windows system files
+[Dd]esktop.ini
+Thumbs.db
+$RECYCLE.BIN/
+ehthumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temp files
+*.tmp
+*.bak
+*~
